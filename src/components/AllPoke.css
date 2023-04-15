@@ -1,0 +1,14 @@
+.allpoke-results a{
+
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.allpoke-results a:hover{
+
+    color: rgb(85, 85, 221);
+    font-size: 20px;
+    transition: 0.6s ease;
+}
